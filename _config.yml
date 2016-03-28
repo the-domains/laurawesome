@@ -1,0 +1,28 @@
+name: LaurAwesome
+favicon: null
+layout_spectrum: 0.3569833829533309
+typography_spectrum: 0.5851489803753793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.24530790746212006
+  lightness: 0.9252713010646403
+  saturation: 0.5494812787510455
+  rhythmicContrast: 0.18051889049820602
+purpose: []
