@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LaurAwesome]]></title>
-        <description><![CDATA[LaurAwesome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Searching for the perfect screwdriver...]]></title>
+        <description><![CDATA[Searching for the perfect screwdriver...]]></description>
+        <link>https://thegrid.ai/laurawesome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 17:50:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 18:00:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/laurawesome/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Bloom got a write up on DesignIndaba after being Displayed in the Waterman Gallery at RISD. We had a lot of fun expanding our prototype in this space </p>]]></description>
-            <link>undefinedcd90f702-13ba-4aac-963d-54471f4253b3/index.html</link>
+            <description><![CDATA[<p>Bloom got a write up on DesignIndaba after being displayed in the Waterman Gallery at RISD. We had a lot of fun expanding our prototype in this space </p>]]></description>
+            <link>https://thegrid.ai/laurawesome/cd90f702-13ba-4aac-963d-54471f4253b3/index.html</link>
             <guid isPermaLink="false">cd90f702-13ba-4aac-963d-54471f4253b3</guid>
-            <pubDate>Tue, 29 Mar 2016 17:50:46 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 17:59:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
